@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Dart, Flutter, Javascript**
 
-- 👯 I’m looking to collaborate on [Coding Language Texts](https://www.codinglanguagetexts.eu.org)
-
 - 👨‍💻 All of my projects are available at [https://www.r4wand.eu.org/](https://www.r4wand.eu.org/)
 
 - 📝 I regularly write articles on [https://blog.r4wand.eu.org/](https://blog.r4wand.eu.org/)
